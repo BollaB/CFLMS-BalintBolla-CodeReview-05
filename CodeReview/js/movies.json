@@ -1,0 +1,37 @@
+var movies = `[{
+	"image": "img/1917.jpg",
+	"title": "1917",
+	"releaseDate": "2019",
+	"genre": "Drama",
+	"director": "Sam Mendes"
+},{
+	"image": "img/adastra.jpg",
+	"title": "Ad Astra",
+	"releaseDate": "2019",
+	"genre": "Adventure, Drama",
+	"director": "James Gray"
+},{
+	"image": "img/alien.jpg",
+	"title": "Alien: Covenant",
+	"releaseDate": "2017",
+	"genre": "Horror, Sci-Fi",
+	"director": "Ridley Scott"
+},{
+	"image": "img/ghostshell.jpg",
+	"title": "Ghost in the Shell",
+	"releaseDate": "2017",
+	"genre": "Action, Crime, Drama",
+	"director": "Rupert Sanders"
+},{
+	"image": "img/johnwick3.jpg",
+	"title": "John Wick: Chapter 3 - Parabellum",
+	"releaseDate": "2019",
+	"genre": "Action, Thriller",
+	"director": "Chad Stahelski"
+},{
+	"image": "img/starwars.jpg",
+	"title": "Star Wars: Episode VIII - The Last Jedi",
+	"releaseDate": "2017",
+	"genre": "Action, Fantasy",
+	"director": "Rian Johnson"
+}]`
